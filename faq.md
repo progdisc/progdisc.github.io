@@ -26,3 +26,28 @@ want to avoid is having new members join the server, see a room full of people
 making fun of their technology choices, and feeling unwelcome. With a community
 of over 10,000 people from many different backgrounds, we have to take extra
 care in this area.
+
+## <a name="dont-ask-to-ask"></a>Why shouldn't I ask to ask?
+
+Let's say you join the server and say something like:
+
+	<alice> does anyone know about cryptography?
+
+Typically people who are looking to answer questions will scan through their
+favourite channels and try to pitch in on topics they know about.
+
+Anyone who doesn't feel like they have a really strong grasp on cryptography
+isn't going to feel confident enough to reply to you.
+
+Additionally, cryptography is quite a niche topic. We don't have a huge number
+of people that know a lot about it, so it's likely to be a while before
+someone gets around to answering you. When they do, it could be that you're no
+longer online and you'll have to wait even longer to get your answer.
+
+If you straight-up ask the question from the get-go, anyone who happens to
+knowthe answer can chime in. Maybe your question didn't need all that much
+cryptography knowledge after-all. 
+
+You also may find that the question gets answered while you're away from
+Discord, and you come back to an answer to your question instead of someone
+saying: "I know cryptograhy, what do you want to know?"
