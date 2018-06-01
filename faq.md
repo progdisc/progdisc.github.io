@@ -45,7 +45,7 @@ someone gets around to answering you. When they do, it could be that you're no
 longer online and you'll have to wait even longer to get your answer.
 
 If you straight-up ask the question from the get-go, anyone who happens to
-knowthe answer can chime in. Maybe your question didn't need all that much
+know the answer can chime in. Maybe your question didn't need all that much
 cryptography knowledge after-all. 
 
 You also may find that the question gets answered while you're away from
