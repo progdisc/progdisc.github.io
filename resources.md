@@ -1,8 +1,8 @@
 ---
-title: Resources
+layout: default
 ---
 
-# Programming Discussions Recommendations
+# Progdisc Resource List
 
 A curated list of learning resources recommended by the Programming Discussions server on Discord.
 
