@@ -14,3 +14,5 @@ from the repo directory:
 	$ jekyll serve --incremental
 
 The website should then be accessible locally on <http://localhost:4000>.
+
+[1]: https://jekyllrb.com/
