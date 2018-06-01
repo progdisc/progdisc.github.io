@@ -14,4 +14,4 @@ of all skill levels to discuss programming.
 - [Browse our curated list of resources][2].
 
 [1]: https://discord.gg/9zT7NHP
-[2]: //resources
+[2]: resources
