@@ -1,8 +1,6 @@
 ---
 ---
 
-# Programming Discussions
-
 This is the companion website for the [Programming Discussions Discord
 Server][1]. Our server is an open, friendly, welcoming environment for people
 of all skill levels to discuss programming.
