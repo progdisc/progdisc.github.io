@@ -1,4 +1,5 @@
 ---
+title: Programming Discussions Discord
 ---
 
 This is the companion website for the [Programming Discussions Discord
