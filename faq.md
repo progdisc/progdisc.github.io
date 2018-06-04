@@ -50,3 +50,18 @@ cryptography knowledge after-all.
 You also may find that the question gets answered while you're away from
 Discord, and you come back to an answer to your question instead of someone
 saying: "I know cryptograhy, what do you want to know?"
+
+## Why are Bucky's (thenewboston) videos not recommended in the server?
+There's not really a simple explanation as to why the videos are not 
+recommended. The most accurate that a newbie can undesrtand is "they make 
+your code actively worse", but that doesn't explain the why, and the why is 
+complicated.
+
+Bucky emphasises the wrong things, gives misleading examples, skips over portions
+that are essential—trying to put all this into a list would be very long, would 
+involve concepts a beginner won't understand, and will still give the impression
+of "well, now I know what parts aren't right, let me just watch the rest".
+
+All in all, we think that a good foundation makes learning easier in the long
+run, instead of having to correct subtle mistakes and misconceptions all the
+way of the learning process.
