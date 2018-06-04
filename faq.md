@@ -53,7 +53,7 @@ saying: "I know cryptograhy, what do you want to know?"
 
 ## Why are Bucky's (thenewboston) videos not recommended in the server?
 There's not really a simple explanation as to why the videos are not 
-recommended. The most accurate that a newbie can undesrtand is "they make 
+recommended. The most accurate that a newbie can understand is "they make 
 your code actively worse", but that doesn't explain the why, and the why is 
 complicated.
 
