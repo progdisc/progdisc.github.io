@@ -5,10 +5,8 @@
 
 ## Why did you delete my meme?
 
-<span id="#meme"></span>
-
-Memes have historically been a controvertial topic in our server. On the one
-hand, they can be fun. On the other, they can be hurtful. A non-trivial
+<a id="#meme"></a>Memes have historically been a controvertial topic in our server.
+On the one hand, they can be fun. On the other, they can be hurtful. A non-trivial
 fraction of memes shared on our server attempt to get laughs by making fun of a
 group of people, language, or technology.
 
@@ -30,9 +28,7 @@ care in this area.
 
 ## Why shouldn't I ask to ask?
 
-<span id="#ask"></span>
-
-Let's say you join the server and say something like:
+<a id="#ask"></a>Let's say you join the server and say something like:
 
 	<alice> does anyone know about cryptography?
 
@@ -57,12 +53,10 @@ saying: "I know cryptograhy, what do you want to know?"
 
 ## Why are Bucky's (thenewboston) videos not recommended in the server?
 
-<span id="#bucky"></span>
-
-There's not really a simple explanation as to why the videos are not
-recommended. The most accurate that a newbie can understand is "they make
-your code actively worse", but that doesn't explain the why, and the why is
-complicated.
+<a id="#bucky"></a>There's not really a simple explanation as to why the
+videos are not recommended. The most accurate that a newbie can understand is
+"they make your code actively worse", but that doesn't explain the why, and
+the why is complicated.
 
 Bucky emphasises the wrong things, gives misleading examples, skips over portions
 that are essential—trying to put all this into a list would be very long, would
@@ -75,9 +69,7 @@ way of the learning process.
 
 ## Why don't we have separate roles for each language so we can mass-ping people for help?
 
-<span id="#roles"></span>
-
-For multiple reasons:
+<a id="#roles"></a>For multiple reasons:
 * The members and helpers of the server are volunteers, who lend their time by
   their own free will without external pressure. Thus, we consider that having a
   role to ping may make many people uncomfortable, maybe uncomfortable enough to
