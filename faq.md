@@ -65,3 +65,25 @@ of "well, now I know what parts aren't right, let me just watch the rest".
 All in all, we think that a good foundation makes learning easier in the long
 run, instead of having to correct subtle mistakes and misconceptions all the
 way of the learning process.
+
+## Why don't we have separate roles for each language so we can mass-ping people for help?
+For multiple reasons:
+* The members and helpers of the server are volunteers, who lend their time by
+  their own free will without external pressure. Thus, we consider that having a
+  role to ping may make many people uncomfortable, maybe uncomfortable enough to
+  mute the server as a result and lend less time to helping than before.
+* It involves a huge amount of work for the moderation team, that must make and
+  maintain those roles, and even create new ones on demand. The moderation team,
+  as a team of volunteers, considers the extra work unnecessary for the correct
+  functioning of the server.
+* It does not add any real value to the server. Having roles to mass-ping would
+  only cause frustrations and complaints by the people that take them, resulting
+  in less people taking them, resulting in the system being moot in the first
+  place.
+* On the amount of channels argument: we prefer everyone to have access to every
+  channel at the start, and mute and hide the ones they do not care about. It is
+  the same amount of personal decision, and it is a function integrated in
+  Discord itself. And who knows? Maybe having all channels visible from the
+  start could spark an interest in someone on a topic they had not even
+  considered. We think that the chance of exposure to multiple diverse topics is
+  more important than a cumbersome system for channel filtering.
