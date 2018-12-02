@@ -1,6 +1,6 @@
 # Programming Discussions Website
 
-<http://progdisc.club>.
+<https://progdisc.club>.
 
 ## Contributing
 
